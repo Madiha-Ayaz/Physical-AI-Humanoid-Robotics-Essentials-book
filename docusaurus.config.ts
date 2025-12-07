@@ -8,15 +8,10 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://YOUR_GITHUB_USERNAME.github.io',
+  url: 'https://ai-book-kl410qswo-madiha-ayazs-projects.vercel.app',
   // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/ai-book/',
-
-  // GitHub pages deployment config.
-  organizationName: 'YOUR_GITHUB_USERNAME',
-  projectName: 'ai-book',
-  deploymentBranch: 'gh-pages',
+  // For Vercel deployment, this is usually '/'.
+  baseUrl: '/',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

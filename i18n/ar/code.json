@@ -1,33 +1,95 @@
 {
-  "theme.ErrorPageContent.title": "تعطلت هذه الصفحة.",
-  "theme.NotFound.title": "الصفحة غير موجودة",
-  "theme.NotFound.p1": "لم نتمكن من العثور على ما تبحث عنه.",
-  "theme.NotFound.p2": "يرجى الاتصال بمالك الموقع الأصلي الذي أرسل لك عنوان URL وإخباره أن رابطه معطل.",
-  "theme.BackToTopButton.buttonAriaLabel": "انتقل للأعلى",
-  "theme.blog.archive.title": "أرشيف",
-  "theme.blog.archive.description": "أرشيف",
-  "theme.blog.paginator.navAriaLabel": "التنقل في صفحات المدونة",
-  "theme.blog.paginator.newerEntries": "إدخالات أحدث",
-  "theme.blog.paginator.olderEntries": "إدخالات أقدم",
-  "theme.blog.post.paginator.navAriaLabel": "التنقل في منشورات المدونة",
-  "theme.blog.post.paginator.newerPost": "منشور أحدث",
-  "theme.blog.post.paginator.olderPost": "منشور أقدم",
-  "theme.tags.tagsPageTitle": "الوسوم",
-  "theme.colorToggle.ariaLabel": "التبديل بين الوضع الداكن والفاتح",
-  "theme.colorToggle.ariaLabel.mode.dark": "التبديل إلى الوضع الداكن",
-  "theme.colorToggle.ariaLabel.mode.light": "التبديل إلى الوضع الفاتح",
-  "theme.docs.breadcrumbs.home": "الصفحة الرئيسية",
-  "theme.docs.breadcrumbs.navAriaLabel": "مسارات التنقل",
-  "theme.docs.paginator.navAriaLabel": "التنقل في الوثائق",
-  "theme.docs.paginator.previous": "السابق",
-  "theme.docs.paginator.next": "التالي",
-  "theme.docs.sidebar.collapseButtonTitle": "طي الشريط الجانبي",
-  "theme.docs.sidebar.collapseButtonAriaLabel": "طي الشريط الجانبي",
-  "theme.navbar.mobileVersionsDropdown.label": "الإصدارات",
-  "theme.TOCCollapsible.toggleButtonLabel": "في هذه الصفحة",
-  "theme.common.editThisPage": "تحرير هذه الصفحة",
-  "theme.common.headingLinkTitle": "رابط مباشر للعنوان",
-  "theme.lastUpdated.atDate": "في {date}",
-  "theme.lastUpdated.byUser": "بواسطة {user}",
-  "theme.lastUpdated.lastUpdatedAtBy": "آخر تحديث {atDate} {byUser}"
+    "theme.blog.archive.description":  {
+                                           "message":  "أرشيف"
+                                       },
+    "theme.docs.sidebar.collapseButtonAriaLabel":  {
+                                                       "message":  "طي الشريط الجانبي"
+                                                   },
+    "theme.blog.post.paginator.newerPost":  {
+                                                "message":  "منشور أحدث"
+                                            },
+    "theme.navbar.mobileVersionsDropdown.label":  {
+                                                      "message":  "الإصدارات"
+                                                  },
+    "theme.blog.archive.title":  {
+                                     "message":  "أرشيف"
+                                 },
+    "theme.blog.paginator.navAriaLabel":  {
+                                              "message":  "التنقل في صفحات المدونة"
+                                          },
+    "theme.NotFound.title":  {
+                                 "message":  "الصفحة غير موجودة"
+                             },
+    "theme.colorToggle.ariaLabel":  {
+                                        "message":  "التبديل بين الوضع الداكن والفاتح"
+                                    },
+    "theme.blog.paginator.olderEntries":  {
+                                              "message":  "إدخالات أقدم"
+                                          },
+    "theme.docs.paginator.navAriaLabel":  {
+                                              "message":  "التنقل في الوثائق"
+                                          },
+    "theme.blog.post.paginator.navAriaLabel":  {
+                                                   "message":  "التنقل في منشورات المدونة"
+                                               },
+    "theme.lastUpdated.lastUpdatedAtBy":  {
+                                              "message":  "آخر تحديث {atDate} {byUser}"
+                                          },
+    "theme.tags.tagsPageTitle":  {
+                                     "message":  "الوسوم"
+                                 },
+    "theme.docs.sidebar.collapseButtonTitle":  {
+                                                   "message":  "طي الشريط الجانبي"
+                                               },
+    "theme.lastUpdated.byUser":  {
+                                     "message":  "بواسطة {user}"
+                                 },
+    "theme.blog.post.paginator.olderPost":  {
+                                                "message":  "منشور أقدم"
+                                            },
+    "theme.blog.paginator.newerEntries":  {
+                                              "message":  "إدخالات أحدث"
+                                          },
+    "theme.common.headingLinkTitle":  {
+                                          "message":  "رابط مباشر للعنوان"
+                                      },
+    "theme.lastUpdated.atDate":  {
+                                     "message":  "في {date}"
+                                 },
+    "theme.NotFound.p1":  {
+                              "message":  "لم نتمكن من العثور على ما تبحث عنه."
+                          },
+    "theme.docs.paginator.next":  {
+                                      "message":  "التالي"
+                                  },
+    "theme.ErrorPageContent.title":  {
+                                         "message":  "تعطلت هذه الصفحة."
+                                     },
+    "theme.docs.breadcrumbs.home":  {
+                                        "message":  "الصفحة الرئيسية"
+                                    },
+    "theme.docs.breadcrumbs.navAriaLabel":  {
+                                                "message":  "مسارات التنقل"
+                                            },
+    "theme.TOCCollapsible.toggleButtonLabel":  {
+                                                   "message":  "في هذه الصفحة"
+                                               },
+    "theme.BackToTopButton.buttonAriaLabel":  {
+                                                  "message":  "انتقل للأعلى"
+                                              },
+    "theme.docs.paginator.previous":  {
+                                          "message":  "السابق"
+                                      },
+    "theme.colorToggle.ariaLabel.mode.light":  {
+                                                   "message":  "التبديل إلى الوضع الفاتح"
+                                               },
+    "theme.common.editThisPage":  {
+                                      "message":  "تحرير هذه الصفحة"
+                                  },
+    "theme.colorToggle.ariaLabel.mode.dark":  {
+                                                  "message":  "التبديل إلى الوضع الداكن"
+                                              },
+    "theme.NotFound.p2":  {
+                              "message":  "يرجى الاتصال بمالك الموقع الأصلي الذي أرسل لك عنوان URL وإخباره أن رابطه معطل."
+                          }
 }

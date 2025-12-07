@@ -1,33 +1,95 @@
 {
-  "theme.ErrorPageContent.title": "页面已崩溃。",
-  "theme.NotFound.title": "找不到页面",
-  "theme.NotFound.p1": "我们找不到您要找的内容。",
-  "theme.NotFound.p2": "请联系给您 URL 的原始网站所有者，告知他们链接已损坏。",
-  "theme.BackToTopButton.buttonAriaLabel": "回到顶部",
-  "theme.blog.archive.title": "归档",
-  "theme.blog.archive.description": "归档",
-  "theme.blog.paginator.navAriaLabel": "博客列表分页导航",
-  "theme.blog.paginator.newerEntries": "较新的文章",
-  "theme.blog.paginator.olderEntries": "较旧的文章",
-  "theme.blog.post.paginator.navAriaLabel": "博客文章分页导航",
-  "theme.blog.post.paginator.newerPost": "较新一篇",
-  "theme.blog.post.paginator.olderPost": "较旧一篇",
-  "theme.tags.tagsPageTitle": "标签",
-  "theme.colorToggle.ariaLabel": "切换浅色/暗黑模式",
-  "theme.colorToggle.ariaLabel.mode.dark": "切换为暗黑模式",
-  "theme.colorToggle.ariaLabel.mode.light": "切换为浅色模式",
-  "theme.docs.breadcrumbs.home": "主页",
-  "theme.docs.breadcrumbs.navAriaLabel": "页面路径",
-  "theme.docs.paginator.navAriaLabel": "文档分页导航",
-  "theme.docs.paginator.previous": "上一页",
-  "theme.docs.paginator.next": "下一页",
-  "theme.docs.sidebar.collapseButtonTitle": "收起侧边栏",
-  "theme.docs.sidebar.collapseButtonAriaLabel": "收起侧边栏",
-  "theme.navbar.mobileVersionsDropdown.label": "版本",
-  "theme.TOCCollapsible.toggleButtonLabel": "本页总览",
-  "theme.common.editThisPage": "编辑此页",
-  "theme.common.headingLinkTitle": "标题的直接链接",
-  "theme.lastUpdated.atDate": "于 {date}",
-  "theme.lastUpdated.byUser": "由 {user}",
-  "theme.lastUpdated.lastUpdatedAtBy": "最后更新{atDate}{byUser}"
+    "theme.blog.archive.description":  {
+                                           "message":  "归档"
+                                       },
+    "theme.docs.sidebar.collapseButtonAriaLabel":  {
+                                                       "message":  "收起侧边栏"
+                                                   },
+    "theme.blog.post.paginator.newerPost":  {
+                                                "message":  "较新一篇"
+                                            },
+    "theme.navbar.mobileVersionsDropdown.label":  {
+                                                      "message":  "版本"
+                                                  },
+    "theme.blog.archive.title":  {
+                                     "message":  "归档"
+                                 },
+    "theme.blog.paginator.navAriaLabel":  {
+                                              "message":  "博客列表分页导航"
+                                          },
+    "theme.NotFound.title":  {
+                                 "message":  "找不到页面"
+                             },
+    "theme.colorToggle.ariaLabel":  {
+                                        "message":  "切换浅色/暗黑模式"
+                                    },
+    "theme.blog.paginator.olderEntries":  {
+                                              "message":  "较旧的文章"
+                                          },
+    "theme.docs.paginator.navAriaLabel":  {
+                                              "message":  "文档分页导航"
+                                          },
+    "theme.blog.post.paginator.navAriaLabel":  {
+                                                   "message":  "博客文章分页导航"
+                                               },
+    "theme.lastUpdated.lastUpdatedAtBy":  {
+                                              "message":  "最后更新{atDate}{byUser}"
+                                          },
+    "theme.tags.tagsPageTitle":  {
+                                     "message":  "标签"
+                                 },
+    "theme.docs.sidebar.collapseButtonTitle":  {
+                                                   "message":  "收起侧边栏"
+                                               },
+    "theme.lastUpdated.byUser":  {
+                                     "message":  "由 {user}"
+                                 },
+    "theme.blog.post.paginator.olderPost":  {
+                                                "message":  "较旧一篇"
+                                            },
+    "theme.blog.paginator.newerEntries":  {
+                                              "message":  "较新的文章"
+                                          },
+    "theme.common.headingLinkTitle":  {
+                                          "message":  "标题的直接链接"
+                                      },
+    "theme.lastUpdated.atDate":  {
+                                     "message":  "于 {date}"
+                                 },
+    "theme.NotFound.p1":  {
+                              "message":  "我们找不到您要找的内容。"
+                          },
+    "theme.docs.paginator.next":  {
+                                      "message":  "下一页"
+                                  },
+    "theme.ErrorPageContent.title":  {
+                                         "message":  "页面已崩溃。"
+                                     },
+    "theme.docs.breadcrumbs.home":  {
+                                        "message":  "主页"
+                                    },
+    "theme.docs.breadcrumbs.navAriaLabel":  {
+                                                "message":  "页面路径"
+                                            },
+    "theme.TOCCollapsible.toggleButtonLabel":  {
+                                                   "message":  "本页总览"
+                                               },
+    "theme.BackToTopButton.buttonAriaLabel":  {
+                                                  "message":  "回到顶部"
+                                              },
+    "theme.docs.paginator.previous":  {
+                                          "message":  "上一页"
+                                      },
+    "theme.colorToggle.ariaLabel.mode.light":  {
+                                                   "message":  "切换为浅色模式"
+                                               },
+    "theme.common.editThisPage":  {
+                                      "message":  "编辑此页"
+                                  },
+    "theme.colorToggle.ariaLabel.mode.dark":  {
+                                                  "message":  "切换为暗黑模式"
+                                              },
+    "theme.NotFound.p2":  {
+                              "message":  "请联系给您 URL 的原始网站所有者，告知他们链接已损坏。"
+                          }
 }

@@ -1,8 +1,20 @@
 {
-  "title": "فزیکل اے آئی اور ہیومنائڈ روبوٹکس",
-  "item.label.Course": "کورس",
-  "item.label.Hardware": "ہارڈویئر",
-  "item.label.Resources": "وسائل",
-  "item.label.Glossary": "لغت",
-  "item.label.GitHub": "گٹ ہب"
+    "item.label.Course":  {
+                              "message":  "کورس"
+                          },
+    "item.label.GitHub":  {
+                              "message":  "گٹ ہب"
+                          },
+    "item.label.Hardware":  {
+                                "message":  "ہارڈویئر"
+                            },
+    "item.label.Glossary":  {
+                                "message":  "لغت"
+                            },
+    "item.label.Resources":  {
+                                 "message":  "وسائل"
+                             },
+    "title":  {
+                  "message":  "فزیکل اے آئی اور ہیومنائڈ روبوٹکس"
+              }
 }

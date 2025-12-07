@@ -21,41 +21,6 @@ const config: Config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
-  i18n: {
-    defaultLocale: 'en',
-    locales: ['en', 'ur', 'ar', 'zh', 'es'],
-    localeConfigs: {
-      en: {
-        label: 'English',
-        direction: 'ltr',
-        htmlLang: 'en-US',
-      },
-      ur: {
-        label: 'اردو',
-        direction: 'rtl',
-        htmlLang: 'ur',
-      },
-      ar: {
-        label: 'العربية',
-        direction: 'rtl',
-        htmlLang: 'ar',
-      },
-      zh: {
-        label: '中文',
-        direction: 'ltr',
-        htmlLang: 'zh-CN',
-      },
-      es: {
-        label: 'Español',
-        direction: 'ltr',
-        htmlLang: 'es',
-      },
-    },
-  },
-
   presets: [
     [
       'classic',
@@ -64,7 +29,7 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
           editUrl: 'https://github.com/YOUR_GITHUB_USERNAME/ai-book/tree/main/',
-          showLastUpdateTime: true,
+          showLastUpdateTime: false,
         },
         blog: false, // Optional: disable the blog plugin
         theme: {
@@ -110,10 +75,6 @@ const config: Config = {
           to: '/docs/glossary',
           label: 'Glossary',
           position: 'left',
-        },
-        {
-          type: 'localeDropdown',
-          position: 'right',
         },
         {
           type: 'custom-colorModeToggle',

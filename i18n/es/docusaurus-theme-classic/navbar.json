@@ -1,8 +1,20 @@
 {
-  "title": "IA Física y Robótica Humanoide",
-  "item.label.Course": "Curso",
-  "item.label.Hardware": "Hardware",
-  "item.label.Resources": "Recursos",
-  "item.label.Glossary": "Glosario",
-  "item.label.GitHub": "GitHub"
+    "item.label.Course":  {
+                              "message":  "Curso"
+                          },
+    "item.label.GitHub":  {
+                              "message":  "GitHub"
+                          },
+    "item.label.Hardware":  {
+                                "message":  "Hardware"
+                            },
+    "item.label.Glossary":  {
+                                "message":  "Glosario"
+                            },
+    "item.label.Resources":  {
+                                 "message":  "Recursos"
+                             },
+    "title":  {
+                  "message":  "IA Física y Robótica Humanoide"
+              }
 }

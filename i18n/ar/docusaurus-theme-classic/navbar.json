@@ -1,8 +1,20 @@
 {
-  "title": "الذكاء الاصطناعي الفيزيائي والروبوتات البشرية",
-  "item.label.Course": "الدورة",
-  "item.label.Hardware": "الأجهزة",
-  "item.label.Resources": "الموارد",
-  "item.label.Glossary": "المصطلحات",
-  "item.label.GitHub": "جيت هاب"
+    "item.label.Course":  {
+                              "message":  "الدورة"
+                          },
+    "item.label.GitHub":  {
+                              "message":  "جيت هاب"
+                          },
+    "item.label.Hardware":  {
+                                "message":  "الأجهزة"
+                            },
+    "item.label.Glossary":  {
+                                "message":  "المصطلحات"
+                            },
+    "item.label.Resources":  {
+                                 "message":  "الموارد"
+                             },
+    "title":  {
+                  "message":  "الذكاء الاصطناعي الفيزيائي والروبوتات البشرية"
+              }
 }

@@ -79,16 +79,24 @@
 
 <!--
   ACTION REQUIRED: The content in this section represents placeholders.
-  Fill them out with the right functional requirements.
+  Fill them out with the right functional and educational requirements.
 -->
 
 ### Functional Requirements
 
-- **FR-001**: System MUST [specific capability, e.g., "allow users to create accounts"]
-- **FR-002**: System MUST [specific capability, e.g., "validate email addresses"]  
-- **FR-003**: Users MUST be able to [key interaction, e.g., "reset their password"]
-- **FR-004**: System MUST [data requirement, e.g., "persist user preferences"]
-- **FR-005**: System MUST [behavior, e.g., "log all security events"]
+- **FR-001**: Content MUST [specific capability, e.g., "explain kinematics fundamentals before inverse kinematics"]
+- **FR-002**: Content MUST [specific capability, e.g., "provide working code examples for all platforms"]
+- **FR-003**: Learners MUST be able to [key interaction, e.g., "complete hands-on exercises independently"]
+- **FR-004**: Content MUST [data requirement, e.g., "include prerequisite knowledge declarations"]
+- **FR-005**: Content MUST [behavior, e.g., "maintain consistent terminology throughout"]
+
+### Educational Requirements
+
+- **ER-001**: Prerequisites MUST be explicitly stated at chapter start
+- **ER-002**: Code examples MUST be tested and executable on specified platform versions
+- **ER-003**: Each concept MUST include both theory and practical implementation
+- **ER-004**: Platform-specific instructions MUST include troubleshooting guidance
+- **ER-005**: Mathematical notation MUST be defined in glossary and used consistently
 
 *Example of marking unclear requirements:*
 

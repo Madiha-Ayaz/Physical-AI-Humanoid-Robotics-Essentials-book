@@ -1,0 +1,30 @@
+.colorModeToggle {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0.5rem;
+  border-radius: 8px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  color: var(--ifm-color-content);
+}
+
+.colorModeToggle:hover {
+  background-color: rgba(14, 165, 233, 0.1);
+  transform: rotate(180deg);
+}
+
+.icon {
+  font-size: 1.5rem;
+  transition: transform 0.3s ease;
+}
+
+[data-theme='dark'] .colorModeToggle .icon {
+  color: #fbbf24;
+}
+
+[data-theme='light'] .colorModeToggle .icon {
+  color: #3730a3;
+}

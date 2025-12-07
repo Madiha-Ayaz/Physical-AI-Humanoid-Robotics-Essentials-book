@@ -31,7 +31,16 @@
 
 *GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
 
-[Gates determined based on constitution file]
+### Educational Content Standards
+
+- [ ] **Progressive Learning**: Content follows scaffolded progression (prerequisites → basics → advanced)
+- [ ] **Theory-Practice Integration**: Every concept paired with working code example and hands-on exercise
+- [ ] **Multi-Platform Coverage**: Code examples provided for applicable platforms (ROS 2, Gazebo, Unity, Isaac Sim)
+- [ ] **Terminology Consistency**: Technical terms defined and used consistently; notation standardized
+- [ ] **Code Quality**: Examples are production-ready, commented, typed, with error handling
+- [ ] **Accessibility**: Prerequisites stated; multiple explanation modalities; inclusive examples
+- [ ] **Platform Documentation**: Setup instructions, troubleshooting, version compatibility included
+- [ ] **Docusaurus Standards**: Proper front matter, heading hierarchy, code blocks with syntax highlighting
 
 ## Project Structure
 

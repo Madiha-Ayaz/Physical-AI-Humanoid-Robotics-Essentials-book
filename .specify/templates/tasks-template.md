@@ -60,16 +60,17 @@ description: "Task list template for feature implementation"
 
 **⚠️ CRITICAL**: No user story work can begin until this phase is complete
 
-Examples of foundational tasks (adjust based on your project):
+Examples of foundational tasks for educational content (adjust based on your project):
 
-- [ ] T004 Setup database schema and migrations framework
-- [ ] T005 [P] Implement authentication/authorization framework
-- [ ] T006 [P] Setup API routing and middleware structure
-- [ ] T007 Create base models/entities that all stories depend on
-- [ ] T008 Configure error handling and logging infrastructure
-- [ ] T009 Setup environment configuration management
+- [ ] T004 Define terminology glossary and notation standards
+- [ ] T005 [P] Create chapter template with required sections (prerequisites, objectives, theory, practice, exercises)
+- [ ] T006 [P] Setup code example testing framework for all platforms
+- [ ] T007 Create base document structure in Docusaurus with proper navigation
+- [ ] T008 Configure syntax highlighting and code block standards
+- [ ] T009 Setup accessibility validation tools (alt text checker, color contrast)
+- [ ] T010 Create platform version compatibility matrix
 
-**Checkpoint**: Foundation ready - user story implementation can now begin in parallel
+**Checkpoint**: Foundation ready - content development can now begin in parallel
 
 ---
 
